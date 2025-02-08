@@ -10,15 +10,15 @@
 
 ---
 
-<div align="center">
-![GitHub Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
-</div>
+### 📊 GitHub Stats
+
+![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
 
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 
-<div style="display: flex; justify-content: center; gap: 10px;">
+<p align="center">
   <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -26,13 +26,13 @@
   <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+</p>
 
 ---
 
 ### 🌍 Onde me encontrar?
 
-<div> 
+<p align="center"> 
   <a href="https://discord.com/channels/@luizjuniorlopes#9975" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a> 
@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/luizjuniorlopes" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-</div>
+</p>
 
 ---
 
