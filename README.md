@@ -20,7 +20,7 @@
 
 | 📊 Estatísticas Gerais | ⏳ Horário Mais Produtivo |
 |:----------------------:|:-----------------------:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizjrlopes&theme=ayu_mirage) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizjrlopes&theme=ayu_mirage&utcOffset=8) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizjrlopes&theme=ayu_mirage) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizjrlopes&theme=ayu_mirage&utcOffset=-3) |
 
 
 ### 🚀 Tecnologias e Ferramentas
