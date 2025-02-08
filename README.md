@@ -14,6 +14,14 @@
 
 ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
 
+<ul>
+  <li>![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizjrlopes&theme=ayu_mirage)</li>
+  <li>![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizjrlopes&theme=ayu_mirage)</li>
+</ul>
+<ul>
+  <li>![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizjrlopes&theme=ayu_mirage)</li>
+  <li>![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizjrlopes&theme=ayu_mirage&utcOffset=8)</li>
+</ul>
 ---
 
 ### 🚀 Tecnologias e Ferramentas
