@@ -6,7 +6,7 @@
 - 👨‍🏫 Experiência com **treinamentos para certificações Microsoft Azure**, desenvolvimento de materiais didáticos e suporte técnico pedagógico.
 - 💻 Full Stack Developer com expertise em **React.js, Next.js, Node.js, TypeScript** e desenvolvimento de **APIs RESTful**.
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Descomplica Faculdade Digital**.
-- 💬 Para saber mais, acesse meu portfólio: [**portifolioluizjunior.herokuapp.com**](http://portifolioluizjunior.herokuapp.com/)
+- 💬 Para saber mais, acesse meu portfólio: [**in/luizjuniorlopes**](https://www.linkedin.com/in/luizjuniorlopes/)
 
 ---
 
