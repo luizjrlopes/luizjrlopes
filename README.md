@@ -48,4 +48,5 @@
 
 ### 🐍 Contribuições no GitHub
 
-![Snake animation](https://github.com/luizjrlopes/luizjrlopes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/luizjrlopes/luizjrlopes/main/dist/github-contribution-grid-snake.svg)
+
