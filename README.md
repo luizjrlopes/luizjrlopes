@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou o Luiz Júnior Lopes ☁️🚀
 
-- 🔭 **Coordenador de Treinamento Especializado em Cloud** na **Cloud Expert School**.  
+- 🔭 **Coordenador de Treinamento Especializado em Cloud**.  
 - 📢 **Microsoft Certified Trainer (MCT)** | **Azure Administrator Associate** | **Azure Fundamentals**.  
 - 🌱 Especializando-me em **Infra/Dev Cloud**, **Desenvolvimento Full Stack** e **Integração com IA Generativa**.  
 - 👨‍🏫 Experiência em **treinamentos oficiais Microsoft Azure**, criação de materiais didáticos e suporte técnico pedagógico.  
