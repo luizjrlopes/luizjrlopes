@@ -1,12 +1,13 @@
-### Olá! Eu sou o Luiz Junior Lopes 👨‍💻☁️🚀
+### 👋 Olá! Eu sou o Luiz Júnior Lopes ☁️🚀
 
-- 🔭 **Coordenador de Treinamento Especializado Cloud** na **Cloud Expert School**.
-- 📢 **Microsoft Certified Trainer (MCT)** | **Microsoft Azure Administrator Associate** | **Microsoft Azure Fundamentals**.
-- 🌱 Especializando-me em **Infra/Dev Cloud** e **Desenvolvimento Full Stack**.
-- 👨‍🏫 Experiência com **treinamentos para certificações Microsoft Azure**, desenvolvimento de materiais didáticos e suporte técnico pedagógico.
-- 💻 Full Stack Developer com expertise em **React.js, Next.js, Node.js, TypeScript** e desenvolvimento de **APIs RESTful**.
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Descomplica Faculdade Digital**.
-- 💬 Para saber mais, acesse meu LinkedIn: [**in/luizjuniorlopes**](https://www.linkedin.com/in/luizjuniorlopes/)
+- 🔭 **Coordenador de Treinamento Especializado em Cloud** na **Cloud Expert School**.  
+- 📢 **Microsoft Certified Trainer (MCT)** | **Azure Administrator Associate** | **Azure Fundamentals**.  
+- 🌱 Especializando-me em **Infra/Dev Cloud**, **Desenvolvimento Full Stack** e **Integração com IA Generativa**.  
+- 👨‍🏫 Experiência em **treinamentos oficiais Microsoft Azure**, criação de materiais didáticos e suporte técnico pedagógico.  
+- 💻 Full Stack Developer com expertise em **React.js, Next.js, Node.js, TypeScript** e **APIs RESTful/GraphQL**.  
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Descomplica Faculdade Digital**.  
+
+📌 Para saber mais: [**LinkedIn**](https://www.linkedin.com/in/luizjuniorlopes/)  
 
 ---
 
@@ -22,17 +23,24 @@
 |:----------------------:|:-----------------------:|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizjrlopes&theme=ayu_mirage) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizjrlopes&theme=ayu_mirage&utcOffset=-3) |
 
+---
 
 ### 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <!-- Frontend -->
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+
+  <!-- Backend & Cloud -->
+  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Azure" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+
+  <!-- DevOps & Tools -->
+  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </p>
 
 ---
@@ -56,4 +64,3 @@
 ### 🐍 Contribuições no GitHub
 
 ![Snake animation](https://raw.githubusercontent.com/luizjrlopes/luizjrlopes/main/dist/github-contribution-grid-snake.svg)
-
