@@ -8,7 +8,7 @@
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Descomplica Faculdade Digital**.  
 
 📌 Para saber mais: [**LinkedIn**](https://www.linkedin.com/in/luizjuniorlopes/)  
-📌 Acesse o portifólio: [**Portifólio**]((https://luizjrlopes.github.io/portifolioNovo/#home)  
+📌 Acesse o portifólio: [**Portifólio**](https://luizjrlopes.github.io/portifolioNovo/#home)  
 
 ---
 
