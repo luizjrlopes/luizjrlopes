@@ -1,67 +1,116 @@
-### 👋 Olá! Eu sou o Luiz Júnior Lopes ☁️🚀
+# Luiz Júnior Lopes
 
-- 🔭 **Coordenador de Treinamento Especializado em Cloud**.  
-- 📢 **Microsoft Certified Trainer (MCT)** | **Azure Administrator Associate** | **Azure Fundamentals**.  
-- 🌱 Especializando-me em **Infra/Dev Cloud**, **Desenvolvimento Full Stack** e **Integração com IA Generativa**.  
-- 👨‍🏫 Experiência em **treinamentos oficiais Microsoft Azure**, criação de materiais didáticos e suporte técnico pedagógico.  
-- 💻 Full Stack Developer com expertise em **React.js, Next.js, Node.js, TypeScript** e **APIs RESTful/GraphQL**.  
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** pela **Descomplica Faculdade Digital**.  
+**AI Software Engineer | Agentes de IA, RAG, Automação, Full Stack e Cloud**
 
-📌 Para saber mais: [**LinkedIn**](https://www.linkedin.com/in/luizjuniorlopes/)  
-📌 Acesse o portifólio: [**Portifólio**](https://luizjrlopes.github.io/portifolioNovo/#home)  
+Construo aplicações com inteligência artificial, agentes, RAG, automação, APIs e sistemas web. Minha base em desenvolvimento Full Stack e Microsoft Azure sustenta uma abordagem que considera arquitetura, testes, segurança, observabilidade e operação — não apenas a integração com o modelo.
 
----
+Meu foco é usar IA dentro de sistemas controlados, com regras claras, validação de saída, logs, fallback, limites de autoridade e revisão humana quando a ação envolve risco.
 
-### 📊 GitHub Stats
+[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [Portfólio](https://luizjrlopes.github.io/portifolioNovo/) · [Artigos](https://github.com/luizjrlopes/AI_Software_Engineering_Playbook) · [E-mail](mailto:luizjunior.lopes@gmail.com)
 
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
+## O que construo
 
-| 📌 Repositórios por Linguagem | 🔥 Linguagem Mais Usada |
-|:----------------------------:|:-----------------------:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luizjrlopes&theme=ayu_mirage) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luizjrlopes&theme=ayu_mirage) |
+- Aplicações com LLMs e IA generativa;
+- Sistemas de agentes com ferramentas, estado e critérios de parada;
+- Soluções RAG e busca semântica;
+- Automações orientadas a eventos, webhooks e revisão humana;
+- APIs, microsserviços e aplicações Full Stack;
+- Soluções preparadas para execução e evolução em Cloud.
 
-| 📊 Estatísticas Gerais | ⏳ Horário Mais Produtivo |
-|:----------------------:|:-----------------------:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=luizjrlopes&theme=ayu_mirage) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=luizjrlopes&theme=ayu_mirage&utcOffset=-3) |
+## Projetos em destaque
 
----
+### AutoFlow
 
-### 🚀 Tecnologias e Ferramentas
+Automação com IA aplicada a um fluxo controlado de entrada, decisão e ação, com persistência e interface para acompanhamento.
 
-<p align="center">
-  <!-- Frontend -->
-  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="React.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Next.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+- **Demonstra:** automação, agentes, APIs e orquestração de fluxo;
+- **Tecnologias:** Python, Streamlit e IA generativa;
+- **Repositório:** [Projeto AutoFlow IA](https://github.com/luizjrlopes/Projeto_AutoFlow_IA).
 
-  <!-- Backend & Cloud -->
-  <img alt="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img alt="Azure" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+### Licitação Lab
 
-  <!-- DevOps & Tools -->
-  <img alt="Git" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</p>
+Backend para fluxos de licitação, usado para explorar concorrência, consistência, autenticação e decisões arquiteturais.
 
----
+- **Demonstra:** backend, modelagem de domínio, confiabilidade e conteinerização;
+- **Tecnologias:** NestJS, PostgreSQL, Redis e Docker;
+- **Repositório:** [licitacao-lab](https://github.com/luizjrlopes/licitacao-lab).
 
-### 🌍 Onde me encontrar?
+### Microservice Shop
 
-<p align="center"> 
-  <a href="https://discord.com/channels/@luizjuniorlopes#9975" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a> 
-  <a href="mailto:luizjunior.lopes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/luizjuniorlopes" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</p>
+Estudo de arquitetura distribuída com múltiplos serviços, eventos e processamento assíncrono.
 
----
+- **Demonstra:** microsserviços, integração, mensageria e workers;
+- **Tecnologias:** Java, Python, Node.js, RabbitMQ e Docker;
+- **Repositório:** [microservice-shop](https://github.com/luizjrlopes/microservice-shop).
 
-### 🐍 Contribuições no GitHub
+### Portfólio profissional
 
-![Snake animation](https://raw.githubusercontent.com/luizjrlopes/luizjrlopes/main/dist/github-contribution-grid-snake.svg)
+Aplicação que reúne projetos, artigos, competências e certificações em uma narrativa profissional única.
+
+- **Demonstra:** desenvolvimento web, organização de conteúdo técnico e entrega pública;
+- **Tecnologias:** Next.js e TypeScript;
+- **Repositório:** [portifolioNovo](https://github.com/luizjrlopes/portifolioNovo) · **[Demonstração](https://luizjrlopes.github.io/portifolioNovo/)**.
+
+## Engenharia aplicada
+
+- Arquitetura e decisões registradas em ADRs;
+- Testes automatizados, validação de entrada e critérios de qualidade;
+- Segurança de aplicações, dados e integrações com IA;
+- Logs, observabilidade, tratamento de falhas e fallback;
+- Docker, CI/CD e operação em Microsoft Azure;
+- Avaliação de custo, latência e uso de modelos;
+- Contexto controlado, rastreabilidade e revisão humana.
+
+## Tecnologias principais
+
+**Inteligência artificial**
+
+`LLMs` `IA generativa` `Agentes` `RAG` `Embeddings` `Function Calling` `Engenharia de Contexto`
+
+**Backend e integração**
+
+`Python` `FastAPI` `Node.js` `TypeScript` `NestJS` `APIs REST` `GraphQL` `Mensageria` `Webhooks`
+
+**Frontend**
+
+`React` `Next.js` `HTML` `CSS` `Acessibilidade`
+
+**Dados**
+
+`PostgreSQL` `MongoDB` `Redis` `Bancos vetoriais`
+
+**Cloud e DevOps**
+
+`Microsoft Azure` `Docker` `GitHub Actions` `CI/CD` `Git`
+
+## Método de trabalho com IA
+
+Desenvolvo uma versão pública e sanitizada do meu método para engenharia de software assistida por agentes. Ele mantém explícitas a responsabilidade humana, a seleção de contexto, os limites de autoridade e os gates de qualidade.
+
+- [AI Software Engineer Studio — versão pública](https://github.com/luizjrlopes/AI_SOFTWARE_ENGINEER_STUDIO_PUBLICO)
+
+## Conteúdo técnico
+
+Escrevo sobre engenharia de produtos com IA: LLMs em produção, RAG, arquiteturas orientadas a eventos, testes de sistemas de IA, LLMOps e mitigação de alucinações.
+
+- [AI Software Engineering Playbook](https://github.com/luizjrlopes/AI_Software_Engineering_Playbook)
+- [Publicações e trajetória no LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
+
+## Certificações e formação
+
+- Microsoft Certified Trainer (MCT);
+- Microsoft Certified: Azure Administrator Associate;
+- Microsoft Certified: Azure Fundamentals;
+- Análise e Desenvolvimento de Sistemas — Descomplica Faculdade Digital.
+
+Minha experiência com treinamentos oficiais Microsoft Azure também fortaleceu minha capacidade de traduzir assuntos complexos em decisões, documentação e comunicação técnica claras.
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
+- [Portfólio](https://luizjrlopes.github.io/portifolioNovo/)
+- [E-mail](mailto:luizjunior.lopes@gmail.com)
+
+## Estatísticas
+
+![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
