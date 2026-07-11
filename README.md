@@ -25,7 +25,7 @@ Automação com IA aplicada a um fluxo controlado de entrada, decisão e ação,
 
 - **Demonstra:** automação, agentes, APIs e orquestração de fluxo;
 - **Tecnologias:** Python, Streamlit e IA generativa;
-- **Repositório:** [Projeto AutoFlow IA](https://github.com/luizjrlopes/Projeto_AutoFlow_IA).
+- **Repositório:** [Projeto AutoFlow IA](https://github.com/luizjrlopes/AutoFlow_IA).
 
 ### Licitação Lab
 
@@ -87,7 +87,7 @@ Aplicação que reúne projetos, artigos, competências e certificações em uma
 
 Desenvolvo uma versão pública e sanitizada do meu método para engenharia de software assistida por agentes. Ele mantém explícitas a responsabilidade humana, a seleção de contexto, os limites de autoridade e os gates de qualidade.
 
-- [AI Software Engineer Studio — versão pública](https://github.com/luizjrlopes/AI_SOFTWARE_ENGINEER_STUDIO_PUBLICO)
+- [AI Software Engineer Studio — versão pública](https://github.com/luizjrlopes/AI-Software-Engineer-Studio-Versao-Publica)
 
 ## Conteúdo técnico
 
