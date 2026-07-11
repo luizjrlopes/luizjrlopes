@@ -1,4 +1,4 @@
-# Luiz Júnior Lopes
+# Luiz Júnior M. S. Lopes
 
 **AI Software Engineer | Agentes de IA, RAG, Automação, Full Stack e Cloud**
 
