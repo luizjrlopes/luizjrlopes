@@ -6,7 +6,7 @@ Construo aplicações com inteligência artificial, agentes, RAG, automação, A
 
 Meu foco é usar IA dentro de sistemas controlados, com regras claras, validação de saída, logs, fallback, limites de autoridade e revisão humana quando a ação envolve risco.
 
-[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [Portfólio](https://luizjrlopes.github.io/portifolioNovo/) · [Artigos](https://github.com/luizjrlopes/AI_Software_Engineering_Playbook) · [E-mail](mailto:luizjunior.lopes@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [Portfólio](https://luizjrlopes.github.io/portifolioNovo/) · [Artigos](https://luizjrlopes.github.io/AI_Software_Engineering_Playbook/Artigos_Principais/index.html) · [E-mail](mailto:luizjunior.lopes@gmail.com)
 
 ## O que construo
 
