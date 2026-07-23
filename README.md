@@ -6,7 +6,7 @@ Construo aplicações com inteligência artificial, agentes, RAG, automação, A
 
 Meu foco é usar IA dentro de sistemas controlados, com regras claras, validação de saída, logs, fallback, limites de autoridade e revisão humana quando a ação envolve risco.
 
-[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [Portfólio](https://luizjrlopes.github.io/portifolioNovo/) · [Artigos](https://luizjrlopes.github.io/AI_Software_Engineering_Playbook/Artigos_Principais/index.html) · [E-mail](mailto:luizjunior.lopes@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [E-mail](mailto:luizjunior.lopes@gmail.com)
 
 ## O que construo
 
@@ -17,39 +17,6 @@ Meu foco é usar IA dentro de sistemas controlados, com regras claras, validaç�
 - APIs, microsserviços e aplicações Full Stack;
 - Soluções preparadas para execução e evolução em Cloud.
 
-## Projetos em destaque
-
-### AutoFlow
-
-Automação com IA aplicada a um fluxo controlado de entrada, decisão e ação, com persistência e interface para acompanhamento.
-
-- **Demonstra:** automação, agentes, APIs e orquestração de fluxo;
-- **Tecnologias:** Python, Streamlit e IA generativa;
-- **Repositório:** [Projeto AutoFlow IA](https://github.com/luizjrlopes/AutoFlow_IA).
-
-### Licitação Lab
-
-Backend para fluxos de licitação, usado para explorar concorrência, consistência, autenticação e decisões arquiteturais.
-
-- **Demonstra:** backend, modelagem de domínio, confiabilidade e conteinerização;
-- **Tecnologias:** NestJS, PostgreSQL, Redis e Docker;
-- **Repositório:** [licitacao-lab](https://github.com/luizjrlopes/licitacao-lab).
-
-### Microservice Shop
-
-Estudo de arquitetura distribuída com múltiplos serviços, eventos e processamento assíncrono.
-
-- **Demonstra:** microsserviços, integração, mensageria e workers;
-- **Tecnologias:** Java, Python, Node.js, RabbitMQ e Docker;
-- **Repositório:** [microservice-shop](https://github.com/luizjrlopes/microservice-shop).
-
-### Portfólio profissional
-
-Aplicação que reúne projetos, artigos, competências e certificações em uma narrativa profissional única.
-
-- **Demonstra:** desenvolvimento web, organização de conteúdo técnico e entrega pública;
-- **Tecnologias:** Next.js e TypeScript;
-- **Repositório:** [portifolioNovo](https://github.com/luizjrlopes/portifolioNovo) · **[Demonstração](https://luizjrlopes.github.io/portifolioNovo/)**.
 
 ## Engenharia aplicada
 
@@ -93,7 +60,6 @@ Desenvolvo uma versão pública e sanitizada do meu método para engenharia de s
 
 Escrevo sobre engenharia de produtos com IA: LLMs em produção, RAG, arquiteturas orientadas a eventos, testes de sistemas de IA, LLMOps e mitigação de alucinações.
 
-- [AI Software Engineering Playbook](https://github.com/luizjrlopes/AI_Software_Engineering_Playbook)
 - [Publicações e trajetória no LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
 
 ## Certificações e formação
@@ -108,7 +74,6 @@ Minha experiência com treinamentos oficiais Microsoft Azure também fortaleceu 
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
-- [Portfólio](https://luizjrlopes.github.io/portifolioNovo/)
 - [E-mail](mailto:luizjunior.lopes@gmail.com)
 
 ## Estatísticas
