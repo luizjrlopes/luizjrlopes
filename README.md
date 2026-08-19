@@ -1,81 +1,82 @@
 # Luiz Júnior M. S. Lopes
 
-**AI Software Engineer | Agentes de IA, RAG, Automação, Full Stack e Cloud**
+[English](README.md) | [Português](README.pt-BR.md)
 
-Construo aplicações com inteligência artificial, agentes, RAG, automação, APIs e sistemas web. Minha base em desenvolvimento Full Stack e Microsoft Azure sustenta uma abordagem que considera arquitetura, testes, segurança, observabilidade e operação — não apenas a integração com o modelo.
+**AI Software Engineer | AI Agents, RAG, Automation, Full Stack and Cloud**
 
-Meu foco é usar IA dentro de sistemas controlados, com regras claras, validação de saída, logs, fallback, limites de autoridade e revisão humana quando a ação envolve risco.
+I build applications with artificial intelligence, agents, RAG, automation, APIs and web systems. My background in Full Stack development and Microsoft Azure supports an engineering approach that considers architecture, testing, security, observability and operations — not only model integration.
 
-[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [E-mail](mailto:luizjunior.lopes@gmail.com)
+My focus is to use AI inside controlled systems, with clear rules, output validation, logs, fallback strategies, authority boundaries and human review whenever an action involves risk.
 
-## O que construo
+[LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/) · [Email](mailto:luizjunior.lopes@gmail.com)
 
-- Aplicações com LLMs e IA generativa;
-- Sistemas de agentes com ferramentas, estado e critérios de parada;
-- Soluções RAG e busca semântica;
-- Automações orientadas a eventos, webhooks e revisão humana;
-- APIs, microsserviços e aplicações Full Stack;
-- Soluções preparadas para execução e evolução em Cloud.
+## What I build
 
+- Applications with LLMs and generative AI;
+- Agent systems with tools, state and stopping criteria;
+- RAG solutions and semantic search;
+- Event-driven automations, webhooks and human review;
+- APIs, microservices and Full Stack applications;
+- Solutions designed for deployment and evolution in cloud environments.
 
-## Engenharia aplicada
+## Applied engineering
 
-- Arquitetura e decisões registradas em ADRs;
-- Testes automatizados, validação de entrada e critérios de qualidade;
-- Segurança de aplicações, dados e integrações com IA;
-- Logs, observabilidade, tratamento de falhas e fallback;
-- Docker, CI/CD e operação em Microsoft Azure;
-- Avaliação de custo, latência e uso de modelos;
-- Contexto controlado, rastreabilidade e revisão humana.
+- Architecture and decisions recorded through ADRs;
+- Automated tests, input validation and quality criteria;
+- Application, data and AI-integration security;
+- Logging, observability, failure handling and fallback;
+- Docker, CI/CD and Microsoft Azure operations;
+- Cost, latency and model-usage evaluation;
+- Controlled context, traceability and human review.
 
-## Tecnologias principais
+## Main technologies
 
-**Inteligência artificial**
+**Artificial intelligence**
 
-`LLMs` `IA generativa` `Agentes` `RAG` `Embeddings` `Function Calling` `Engenharia de Contexto`
+`LLMs` `Generative AI` `Agents` `RAG` `Embeddings` `Function Calling` `Context Engineering`
 
-**Backend e integração**
+**Backend and integration**
 
-`Python` `FastAPI` `Node.js` `TypeScript` `NestJS` `APIs REST` `GraphQL` `Mensageria` `Webhooks`
+`Python` `FastAPI` `Node.js` `TypeScript` `NestJS` `REST APIs` `GraphQL` `Messaging` `Webhooks`
 
 **Frontend**
 
-`React` `Next.js` `HTML` `CSS` `Acessibilidade`
+`React` `Next.js` `HTML` `CSS` `Accessibility`
 
-**Dados**
+**Data**
 
-`PostgreSQL` `MongoDB` `Redis` `Bancos vetoriais`
+`PostgreSQL` `MongoDB` `Redis` `Vector databases`
 
-**Cloud e DevOps**
+**Cloud and DevOps**
 
 `Microsoft Azure` `Docker` `GitHub Actions` `CI/CD` `Git`
 
-## Método de trabalho com IA
+## AI-assisted software engineering method
 
-Desenvolvo uma versão pública e sanitizada do meu método para engenharia de software assistida por agentes. Ele mantém explícitas a responsabilidade humana, a seleção de contexto, os limites de autoridade e os gates de qualidade.
+I maintain a public and sanitized version of my method for agent-assisted software engineering. It keeps human accountability, context selection, authority boundaries and quality gates explicit.
 
-- [AI Software Engineer Studio — versão pública](https://github.com/luizjrlopes/AI-Software-Engineer-Studio-Versao-Publica)
+- [AI Software Engineer Studio — public version](https://github.com/luizjrlopes/AI-Software-Engineer-Studio-Versao-Publica)
 
-## Conteúdo técnico
+## Technical content
 
-Escrevo sobre engenharia de produtos com IA: LLMs em produção, RAG, arquiteturas orientadas a eventos, testes de sistemas de IA, LLMOps e mitigação de alucinações.
+I write about engineering AI products: production LLMs, RAG, event-driven architectures, AI-system testing, LLMOps and hallucination mitigation.
 
-- [Publicações e trajetória no LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
+- [Posts and professional background on LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
 
-## Certificações e formação
+## Certifications and education
 
 - Microsoft Certified Trainer (MCT);
 - Microsoft Certified: Azure Administrator Associate;
 - Microsoft Certified: Azure Fundamentals;
-- Análise e Desenvolvimento de Sistemas — Descomplica Faculdade Digital.
+- Systems Analysis and Development — Descomplica Faculdade Digital.
 
-Minha experiência com treinamentos oficiais Microsoft Azure também fortaleceu minha capacidade de traduzir assuntos complexos em decisões, documentação e comunicação técnica claras.
+My experience with official Microsoft Azure training also strengthened my ability to translate complex topics into clear technical decisions, documentation and communication.
 
-## Contato
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/luizjuniorlopes/)
-- [E-mail](mailto:luizjunior.lopes@gmail.com)
+- [Email](mailto:luizjunior.lopes@gmail.com)
 
-## Estatísticas
+## Statistics
 
-![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
+![GitHub profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luizjrlopes&theme=ayu_mirage)
